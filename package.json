@@ -1,0 +1,24 @@
+{
+  "name": "cs-common-lib",
+  "version": "1.0.0",
+  "description": "this is a common js lib,include component function and others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs840610862/commom-npm-lib.git"
+  },
+  "keywords": [
+    "common",
+    "react-component",
+    "js"
+  ],
+  "author": "caosu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs840610862/commom-npm-lib/issues"
+  },
+  "homepage": "https://github.com/cs840610862/commom-npm-lib#readme"
+}
